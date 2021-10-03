@@ -1,0 +1,25 @@
+{
+  "toDo": [
+    {
+      "kegiatan": "Main Valorant",
+      "detail": "Rank",
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "irfan",
+      "email": "irf@mail.com",
+      "password": "123444",
+      "role": "user"
+    },
+    {
+      "name": "joe",
+      "email": "joe@mail.com",
+      "password": "1233",
+      "role": "user",
+      "id": 2
+    }
+  ]
+}
